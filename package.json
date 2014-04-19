@@ -1,0 +1,24 @@
+{
+  "name": "Node-USB-Temperature-Sensor",
+  "version": "0.0.0",
+  "description": "This nodejs script can serve as a client driver for the TEMPer1 usb temperature sensor",
+  "main": "usb.js",
+  "dependencies": {
+    "usb": "~0.3.8",
+    "us": "~1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thingsnsuch/Node-USB-Temp-Sensor.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/thingsnsuch/Node-USB-Temp-Sensor/issues"
+  },
+  "homepage": "https://github.com/thingsnsuch/Node-USB-Temp-Sensor"
+}
